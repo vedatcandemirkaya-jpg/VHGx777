@@ -27,6 +27,8 @@
 
 pkg update && pkg upgrade -y 
 
+pkg install figlet -y
+
 pkg install git
 
 git clone https://github.com/vedatcandemirkaya-jpg/VHGx777.git
